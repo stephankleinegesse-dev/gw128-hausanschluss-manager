@@ -1,0 +1,5 @@
+# This workspace contains private project data and imported third-party documents.
+# Only explicitly reviewed publication files may be tracked.
+/*
+!/.gitignore
+!/README.md
